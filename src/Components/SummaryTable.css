@@ -1,0 +1,23 @@
+.row.summary {
+    margin-top: 7px;
+}
+label.igst {
+    font-size: 10px;
+    text-decoration: underline;
+    margin-left: 63px;
+}
+
+table.summarytable {
+    display: block;
+    overflow-y: scroll;
+    width: 145%;
+    height: 185px;
+    background-color: white;
+}
+
+th.head {
+    border: 1px solid;
+    background: lightgrey;
+    top: 0;
+    position: sticky;
+}

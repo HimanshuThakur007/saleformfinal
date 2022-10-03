@@ -1,0 +1,64 @@
+legend.float-none.w-auto.p-2 {
+    font-size: 13px;
+    color: royalblue;
+}
+fieldset.border.p-2 {
+    border: 1px solid black!important;
+}
+
+textarea.area {
+    width: 297px;
+    height: 84px;
+    overflow: auto;
+}
+
+label.rate {
+    font-size: 11px;
+    text-decoration: underline;
+}
+
+label.Taxable {
+    font-size: 10px;
+    text-decoration: underline;
+    margin-left: 31px;
+}
+
+label.igst {
+    font-size: 10px;
+    text-decoration: underline;
+    margin-left: 58px;
+}
+
+.row.legend {
+    margin-top: -23px;
+}
+
+label.Totals {
+    font-size: 11px;
+}
+label.rs {
+    font-size: 12px;
+    margin-left: 54px;
+}
+label.rst {
+    font-size: 12px;
+    margin-left: 56px;
+}
+
+fieldset.border.p-2.legendvoucher {
+    margin-left: 49px;
+}
+
+input#flexCheckDefault {
+    margin-left: -10px;
+    border: 1px solid;
+    border-radius: 0px;
+    width: 12px;
+    height: 13px;
+    margin-top: 7px;
+}
+label.form-check-label.taxsum {
+    margin-left: 7px;
+    font-size: 11px;
+}
+

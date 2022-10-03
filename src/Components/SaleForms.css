@@ -1,0 +1,293 @@
+.head-txt{
+    background-color: #941818;
+    color: #fff;
+}
+
+h5.head-txt.px-4 {
+    font-size: medium;
+}
+
+input#series {
+    width: 116px;
+    height: 22px;
+    margin-left: 6px;
+    border: 0px;
+}
+
+input#startDate {
+    width: 116px;
+    height: 22px;
+    margin-left: 6px;
+    border: 0px;
+}
+
+/* input {
+    margin-left: 6px;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+} */
+
+input#vehicle {
+    width: 102px;
+    height: 22px;
+    margin-left: 6px;
+    border: 0px;
+}
+
+input#sale {
+    width: 90px;
+    height: 22px;
+    margin-left: 7px;
+    border: 0px;
+}
+
+.row {
+    --bs-gutter-x: 0.5rem;
+}
+
+
+input {
+    color: black;
+    outline: none;
+    text-transform: capitalize;
+    background-color: hsl(194, 26%, 73%);
+    font-size: 13px;
+  }
+  
+  input:focus {
+    background: black;
+    color: white;
+  }
+
+.textColor:focus {
+    color: white;
+}
+  
+textarea {
+    color: black;
+    outline: none;
+    background-color: hsl(194, 26%, 73%);
+  }
+  
+  textarea:focus {
+    background: black;
+  }
+
+.textColor:focus {
+    color: white;
+}
+  
+select.form-select {
+    /* width: 361px; */
+    /* height: 22px; */
+    margin-right: 2px;
+    float: right;
+    width: 361px;
+    height: 22px;
+    border: 0px;
+    padding: 0px;
+    border-radius: inherit;
+     background-color: hsl(194, 26%, 73%);
+}
+
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 1000px hsl(194, 26%, 73%) inset !important;
+  -webkit-text-fill-color: black !important;
+}
+
+select {
+    color: black;
+    outline: none;
+    text-transform: capitalize;
+    background-color: hsl(194, 26%, 73%);
+  }
+  
+  select:focus {
+    background: black;
+    color: white;
+  }
+
+  .form-select {
+    background-color: hsl(194, 26%, 73%);
+  }
+
+  label {
+    display: inline-block;
+    font-size: 15px;
+}
+
+.container-fluid.acc-ct {
+    background-color: hsl(194, 26%, 73%);
+}
+
+.col-3.legend {
+    margin-top: -15px;
+    margin-left: 14px;
+}
+
+
+textarea {
+    width: -webkit-fill-available;
+    height: 209px;
+    margin: -5px;
+    overflow: scroll;
+    border: 0px;
+}
+textarea:focus {
+    background: black;
+  }
+
+.textColor:focus {
+    color: white;
+}
+
+label.party {
+    /* margin-left: -125px; */
+    margin-left: -123px;
+}
+input#party {
+    /* margin-left: -141px;
+    height: 22px;
+    width: 184%; */
+    border: 0px;
+    margin-left: -122px;
+    height: 22px;
+    width: 40%;
+}
+
+label.Mat {
+    /* margin-left: 4px; */
+    margin-left: 18px;
+}
+
+input#Mat {
+    /* width: 158%;
+    margin-left: -94px;
+    height: 22px; */
+    border: 0px;
+    width: 36%;
+    margin-left: -72px;
+    height: 22px;
+}
+
+.col-7.pt-0 {
+    margin-top: 4px;
+}
+
+label.narration {
+    /* margin-left: -119px; */
+    margin-left: 2px;
+}
+
+input#narration {
+    /* height: 22px;
+    width: 91%;
+    margin-left: -335px; */
+    border: 0px;
+    height: 22px;
+    width: 50%;
+}
+
+.col-12.pt-0 {
+    margin-top: 4px;
+}
+
+
+fieldset.border.p-2.tax {
+    width: 315px;
+    margin-top: -16px;
+}
+
+button.Tax_btn.px-3 {
+    margin-top: 5px;
+}
+
+.row.apply {
+    margin-right: 140px;
+    margin-top: 7px;
+}
+
+label.taxp {
+    margin-left: 15px;
+}
+
+.col-3.legendtag {
+    margin-left: 117px;
+    margin-top: -16px;
+}
+
+label.rateItem {
+    margin-left: 354px;
+}
+
+.col-5.vch {
+    margin-left: -20px;
+}
+.col-2.party {
+    margin-left: -102px;
+}
+
+.col-2.master {
+    margin-left: -120px;
+}
+
+.col-2.vch_image {
+    margin-left: -22px;
+    margin-top: 4px;
+}
+
+.row.btngrp {
+    margin-left: -55px;
+    margin-top: -18px;
+}
+
+.col-2.acc_image {
+    margin-left: -161px;
+    margin-top: 4px;
+}
+.col-2.Hold {
+    margin-left: -273px;
+}
+.col-2.update {
+    margin-left: -104px;
+}
+
+.col-2.check {
+    margin-left: -116px;
+}
+
+.col-2.quit {
+    margin-left: -162px;
+}
+
+.col-2.save {
+    margin-left: -161px;
+}
+
+.col-12.btng {
+    margin-left: -73px;
+}
+
+fieldset.border.p-2.legendundefined {
+    margin-left: 46px;
+}
+
+label.apply {
+    margin-left: 54px;
+}
+
+label.taxp {
+    margin-left: 151px;
+}
+
+.react-datepicker-popper {
+    visibility: hidden;
+}
+
+.col-lg-3.col-md-3.col-sm-12.order-1.legend {
+    margin-left: 14px;
+    margin-top: -15px;
+}

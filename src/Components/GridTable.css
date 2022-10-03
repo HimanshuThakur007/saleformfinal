@@ -1,0 +1,31 @@
+.ag-cell.ag-cell-not-inline-editing.ag-cell-normal-height.ag-cell-value {
+        border: 1px solid;
+     }
+     .ag-header-cell.ag-focus-managed {
+         border: 1px solid;
+     }
+
+     input#ag-48-input {
+        height: 180%;
+    }
+
+    input#ag-52-input {
+        height: 179%;
+    }
+
+    .ag-cell.ag-cell-normal-height.ag-cell-value.ag-cell-focus.ag-cell-inline-editing {
+        height: 30px;
+        /* color: rgb(116, 112, 112); */
+        color:white
+    }
+
+    .ag-header-cell.ag-focus-managed {
+        background: lightgrey;
+    }
+    span.ag-header-cell-text {
+        font-weight: bold;
+    }
+
+    .ag-cell.ag-cell-normal-height.ag-cell-value.ag-cell-not-inline-editing.ag-cell-focus {
+        border: 2px solid;
+    }
